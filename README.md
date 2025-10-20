@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ebrahim | Cybersecurity & Web3 Developer
 
-<!--
-**Falcoinx/Falcoinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about Blockchain Security, Smart Contracts, and Ethical Hacking  
+🔹 Building secure and decentralized digital systems for the future  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+- 🧑‍💻 Cybersecurity Specialist with experience in penetration testing, network defense, and threat analysis  
+- 🔗 Web3 & Blockchain Developer focusing on smart contracts and decentralized applications (dApps)  
+- 💡 Constantly learning about DeFi, cryptography, and secure blockchain design  
+- 🌍 Based in UAE | Open to remote collaborations and freelance projects  
+
+---
+
+## 🚀 My Focus Areas
+| Area | Skills & Tools |
+|------|----------------|
+| **Cybersecurity** | Kali Linux, Burp Suite, OWASP ZAP, Wireshark, Python Security Scripts |
+| **Blockchain / Web3** | Solidity, Hardhat, Remix, Ethereum, Polygon, Thirdweb |
+| **Development Tools** | Git, VS Code, Node.js, React, GitHub Actions |
+
+
