@@ -18,6 +18,6 @@
 |------|----------------|
 | **Cybersecurity** | Kali Linux, Burp Suite, OWASP ZAP, Wireshark, Python Security Scripts |
 | **Blockchain / Web3** | Solidity, Hardhat, Remix, Ethereum, Polygon, Thirdweb |
-| **Development Tools | Web3:** Git, VS Code, Node.js, React, GitHub Actions, Remix IDE |
+| **Development Tools** |  Git, VS Code, Node.js, React, GitHub Actions, Remix IDE |
 
 
